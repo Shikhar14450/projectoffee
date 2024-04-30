@@ -1,0 +1,16 @@
+#colorCard {
+  display: flex;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+#colorCode {
+  border: 1px solid #979090;
+  padding: 10px;
+  border-radius: 5px;
+  width: 50%;
+  cursor: pointer;
+}
